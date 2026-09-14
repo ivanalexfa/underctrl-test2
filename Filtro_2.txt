@@ -1,1 +1,0 @@
-Representacion y comparacion numerica del area en metros cuadrados
